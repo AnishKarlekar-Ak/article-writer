@@ -1,0 +1,18 @@
+# --- Security/Credentials ---
+.env
+*.key
+*.pem
+
+# --- Python Environment & Build Artifacts ---
+# Virtual Environment directory
+.venv/
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# IDE/Editor Files (VS Code, etc.)
+.vscode/
+.idea/

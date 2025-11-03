@@ -1,0 +1,10 @@
+# Core CrewAI and LangChain dependencies
+crewai
+crewai_tools
+langchain-openai
+python-dotenv
+ddgs
+litellm
+duckduckgo-search  # <-- ADD THIS
+langchain-community # <-- ADD THIS (Needed for DuckDuckGoSearchRun)
+# OpenRouter is used via the OpenAI SDK compatibility
